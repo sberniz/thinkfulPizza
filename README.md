@@ -1,4 +1,4 @@
 # thinkfulPizza
 pizzaTest
-*test one
-*test 2
+* test one
+* test 2
